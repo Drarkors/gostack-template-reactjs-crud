@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/0aKDPMelZ9VYPmY5j6703FmaswNFNheDyzAAR2G6ZNkHer6sM7nbxHrp9BMJrRR-2lDvVtRC5-ExOxAai3ZtKrYdAp25001pwY_g7bgN5qym_LJkSe-gmURGY4kOpw",
+      "name": "Filé de Frango Alegumado",
+      "price": "25.00",
+      "description": "Filé de frango com legumes amanteigados",
+      "id": 5,
+      "available": true
     }
   ]
 }
